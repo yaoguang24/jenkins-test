@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.assertj:assertj-core:3.23.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../LG/maven/2-apache-maven-3.3.9/resp/org/assertj/assertj-core/3.23.1/assertj-core-3.23.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../LG/maven/2-apache-maven-3.3.9/resp/org/assertj/assertj-core/3.23.1/assertj-core-3.23.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../LG/maven/2-apache-maven-3.3.9/resp/org/assertj/assertj-core/3.23.1/assertj-core-3.23.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
